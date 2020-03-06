@@ -1,0 +1,54 @@
+.user-detail{
+    margin-top: 10px;
+    padding: 2em;
+    background-color: cornflowerblue;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: 7px 12px 6px #DDD;
+    -moz-box-shadow:7px 12px 6px #DDD;
+    -webkit-box-shadow:7px 12px 6px #DDD;
+    -o-box-shadow:7px 12px 6px #DDD;
+    -ms-box-shadow:7px 12px 6px #DDD;
+}
+
+.avatar img{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}
+
+.news-feed{
+    border: dashed 1px black;
+    margin-top: 10px;
+    padding: 2em;
+    height: 500px;
+    box-shadow: 5px 12px 10px #DDD;
+    -moz-box-shadow:5px 12px 10px #DDD;
+    -webkit-box-shadow:5px 12px 10px #DDD;
+    -o-box-shadow:5px 12px 10px #DDD;
+    -ms-box-shadow:5px 12px 10px #DDD;
+}
+
+.tags {
+    color: black;
+    margin-top: 10px;
+    padding: 2em;
+    padding-left: 3em;
+    border-radius: 5px;
+    border: 1px dashed ;
+    height: 250px;
+    text-align: left;
+    box-shadow: 5px 12px 10px #DDD;
+    -moz-box-shadow:5px 12px 10px #DDD;
+    -webkit-box-shadow:5px 12px 10px #DDD;
+    -o-box-shadow:5px 12px 10px #DDD;
+    -ms-box-shadow:5px 12px 10px #DDD;
+}
+.tags p {
+    margin-bottom: 10px;
+}
+
+.w-80{
+    width: 90%;
+    margin: 0 auto;
+}
